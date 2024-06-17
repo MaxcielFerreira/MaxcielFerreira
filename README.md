@@ -12,7 +12,7 @@ Dê uma olhada nas estatísticas do meu GitHub:
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxcielFerreira&theme=dark&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxcielFerreira&hide=html&layout=compact&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxcielFerreira&hide=html&layout=compact&theme=merko">
 </div>
 
 ## Formações 🎓
