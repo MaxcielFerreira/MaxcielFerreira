@@ -11,7 +11,7 @@ Meu primeiro contato com programação ocorreu enquanto eu trabalhava como supor
 Dê uma olhada nas estatísticas do meu GitHub:
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxcielFerreira&theme=dark&show_icons=true&include_all_commits=false">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxcielFerreira&theme=dark&show_icons=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxcielFerreira&hide=html&layout=compact&theme=merko">
 </div>
 
